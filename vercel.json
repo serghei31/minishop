@@ -1,7 +1,3 @@
 {
-  "rewrites": [
-    { "source": "/", "destination": "/" },
-    { "source": "/product/:slug", "destination": "/product/:slug" },
-    { "source": "/cart", "destination": "/cart" }
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }

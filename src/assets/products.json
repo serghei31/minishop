@@ -54,6 +54,7 @@
       "name": "Modern High Heels",
       "brand": "LIFESTYLE",
       "price": 240,
+      "color": "black",
       "rate": 4,
       "image": "https://themewagon.github.io/minishop/images/product-7.png"
     },

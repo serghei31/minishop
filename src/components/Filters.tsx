@@ -39,6 +39,7 @@ const Filters = ({ onSort, onColorChange, onPriceChange }: Props) => {
   };
 
   const handlePriceChange = (event: Event, newValue: number | number[]) => {
+    console.log(event);
     setPrice(newValue as number[]);
     onPriceChange(newValue as number[]);
   };

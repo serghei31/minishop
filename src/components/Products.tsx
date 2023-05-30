@@ -33,11 +33,14 @@ interface ProductQuery {
   page: number;
   filter?: string;
   color?: string;
-  price?: number[];
+  price: number[];
 }
 
 const Products = ({ products }: Props) => {
-  const [query, setQuery] = React.useState<ProductQuery>({ page: 1 });
+  const [query, setQuery] = React.useState<ProductQuery>({
+    page: 1,
+    price: [0, 500],
+  });
 
   if (query.filter)
     query.filter === 'highest'
@@ -65,6 +68,7 @@ const Products = ({ products }: Props) => {
     event: React.ChangeEvent<unknown>,
     value: number
   ) => {
+    console.log(event);
     setQuery({ ...query, page: value });
   };
 

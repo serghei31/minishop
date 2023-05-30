@@ -7,7 +7,7 @@ import {
   TextField,
   Typography,
 } from '@mui/material';
-import { useContext, useEffect, useState } from 'react';
+import { useContext, useEffect } from 'react';
 import CartContext from '../contexts/cartContext';
 import useCartItems, { setCartItems } from '../hooks/useCartItems';
 import CloseIcon from '@mui/icons-material/Close';

@@ -1,0 +1,27 @@
+{
+  "cart": {
+    "products": [
+      {
+        "name": "Cool Shoes RN",
+        "brand": "LIFESTYLE",
+        "price": 120,
+        "image": "https://themewagon.github.io/minishop/images/product-1.png",
+        "quantity": 1
+      },
+      {
+        "name": "Brown Shoes",
+        "brand": "LIFESTYLE",
+        "price": 140,
+        "rate": 5,
+        "image": "https://themewagon.github.io/minishop/images/product-2.png",
+        "quantity": 2
+      }
+    ],
+    "totals": {
+      "subtotal": 160,
+      "delivery": 15,
+      "discount": 3,
+      "total": 178
+    }
+  }
+}

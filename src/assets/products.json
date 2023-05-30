@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "name": "Cool Shoes RN",
+      "brand": "LIFESTYLE",
+      "price": 120,
+      "color": "white",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-1.png"
+    },
+    {
+      "name": "Classic shoes",
+      "brand": "LIFESTYLE",
+      "price": 100,
+      "color": "white",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-3.png"
+    },
+    {
+      "name": "Brown Shoes",
+      "brand": "LIFESTYLE",
+      "price": 140,
+      "color": "white",
+      "discount": 120,
+      "rate": 4,
+      "image": "https://themewagon.github.io/minishop/images/product-2.png"
+    },
+    {
+      "name": "Anytime shoes",
+      "brand": "LIFESTYLE",
+      "price": 100,
+      "color": "white",
+      "rate": 3,
+      "image": "https://themewagon.github.io/minishop/images/product-4.png"
+    },
+    {
+      "name": "Brilliant High Heels",
+      "brand": "LIFESTYLE",
+      "price": 165,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-5.png"
+    },
+    {
+      "name": "Classic woman shoes",
+      "brand": "LIFESTYLE",
+      "price": 180,
+      "color": "black",
+      "discount": 240,
+      "rate": 1,
+      "image": "https://themewagon.github.io/minishop/images/product-6.png"
+    },
+    {
+      "name": "Modern High Heels",
+      "brand": "LIFESTYLE",
+      "price": 240,
+      "rate": 4,
+      "image": "https://themewagon.github.io/minishop/images/product-7.png"
+    },
+    {
+      "name": "YMW shoes",
+      "brand": "LIFESTYLE",
+      "price": 215,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-8.png"
+    },
+    {
+      "name": "Cool Shoes RN",
+      "brand": "LIFESTYLE",
+      "price": 120,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-1.png"
+    },
+    {
+      "name": "Brown Shoes",
+      "brand": "LIFESTYLE",
+      "price": 140,
+      "color": "black",
+      "discount": 120,
+      "rate": 4,
+      "image": "https://themewagon.github.io/minishop/images/product-2.png"
+    },
+    {
+      "name": "Classic shoes",
+      "brand": "LIFESTYLE",
+      "price": 100,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-3.png"
+    },
+    {
+      "name": "Anytime shoes",
+      "brand": "LIFESTYLE",
+      "price": 100,
+      "color": "black",
+      "rate": 3,
+      "image": "https://themewagon.github.io/minishop/images/product-4.png"
+    },
+    {
+      "name": "Brilliant High Heels",
+      "brand": "LIFESTYLE",
+      "price": 165,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-5.png"
+    },
+    {
+      "name": "Classic woman shoes",
+      "brand": "LIFESTYLE",
+      "price": 180,
+      "color": "black",
+      "discount": 240,
+      "rate": 1,
+      "image": "https://themewagon.github.io/minishop/images/product-6.png"
+    },
+    {
+      "name": "YMW shoes",
+      "brand": "LIFESTYLE",
+      "price": 215,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-8.png"
+    },
+    {
+      "name": "Modern High Heels",
+      "brand": "LIFESTYLE",
+      "price": 240,
+      "color": "black",
+      "rate": 4,
+      "image": "https://themewagon.github.io/minishop/images/product-7.png"
+    },
+    {
+      "name": "Cool Shoes RN",
+      "brand": "LIFESTYLE",
+      "price": 120,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-1.png"
+    },
+    {
+      "name": "Brown Shoes",
+      "brand": "LIFESTYLE",
+      "price": 140,
+      "color": "black",
+      "discount": 120,
+      "rate": 4,
+      "image": "https://themewagon.github.io/minishop/images/product-2.png"
+    },
+    {
+      "name": "Classic shoes",
+      "brand": "LIFESTYLE",
+      "price": 100,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-3.png"
+    },
+    {
+      "name": "Anytime shoes",
+      "brand": "LIFESTYLE",
+      "price": 100,
+      "color": "black",
+      "rate": 3,
+      "image": "https://themewagon.github.io/minishop/images/product-4.png"
+    },
+    {
+      "name": "Brilliant High Heels",
+      "brand": "LIFESTYLE",
+      "price": 165,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-5.png"
+    },
+    {
+      "name": "Classic woman shoes",
+      "brand": "LIFESTYLE",
+      "price": 180,
+      "color": "black",
+      "discount": 240,
+      "rate": 1,
+      "image": "https://themewagon.github.io/minishop/images/product-6.png"
+    },
+    {
+      "name": "YMW shoes",
+      "brand": "LIFESTYLE",
+      "price": 215,
+      "color": "black",
+      "rate": 5,
+      "image": "https://themewagon.github.io/minishop/images/product-8.png"
+    }
+  ]
+}

@@ -11,9 +11,10 @@ Once you have the project files and folders bootstrapped, open them with your te
 
 Next, switch inside the project directory and run:
 
-npm install
+`npm install`
+
 This will install all the necessary dependencies in the local node_modules folder.
 
 Finally, start your development server by running the following:
 
-npm run dev
+`npm run dev`
